@@ -1,0 +1,5 @@
+.section_language_mexican {
+  width: 100%;
+  aspect-ratio: 1190/600;
+  background: linear-gradient(to right, lightblue 0% 48%, transparent 90% 100%), url("../../../images/Mexico/park.jpg") no-repeat right;
+}

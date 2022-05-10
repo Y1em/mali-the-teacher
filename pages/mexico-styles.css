@@ -1,0 +1,19 @@
+@import url('../fonts/fonts.css');
+
+@import url('../blocks/mexico.css');
+
+@import url('../blocks/grid/grid.css');
+@import url('../blocks/grid/__card/grid__card.css');
+@import url('../blocks/grid/__card/_size/grid__card_size_l.css');
+@import url('../blocks/grid/__card/_size/grid__card_size_m.css');
+@import url('../blocks/grid/__card/_size/grid__card_size_s.css');
+@import url('../blocks/grid/__card/_pos/grid__card_pos_about.css');
+@import url('../blocks/grid/__card/_pos/grid__card_pos_prices.css');
+@import url('../blocks/grid/__card/_pos/grid__card_pos_three.css');
+@import url('../blocks/grid/__card/_pos/grid__card_pos_four.css');
+@import url('../blocks/grid/__card/_pos/grid__card_pos_five.css');
+@import url('../blocks/grid/__image/grid__image.css');
+@import url('../blocks/grid/__title/grid__title.css');
+@import url('../blocks/grid/__overlay/grid__overlay.css');
+@import url('../blocks/grid/__image-description/grid__image-description.css');
+@import url('../blocks/grid/__text/grid__text.css');

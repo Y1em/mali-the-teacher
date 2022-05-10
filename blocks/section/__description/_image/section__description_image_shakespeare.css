@@ -1,0 +1,13 @@
+.section__description_image_shakespeare {
+  width: 140px;
+  height: 140px;
+  background: url('../../../../images/England/Shakespeare.png') top/contain no-repeat;
+  position: absolute;
+  top: 67px;
+  right: 118px;
+  transition: 0.15s;
+}
+
+.section__description_image_shakespeare:hover {
+  background: url('../../../../images/England/Shakespeare_open.png') top/contain no-repeat;
+}

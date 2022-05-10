@@ -1,0 +1,6 @@
+.section__link_place_mexico {
+  background: linear-gradient(135deg, lightblue 0%, white 15%, lightblue 30%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

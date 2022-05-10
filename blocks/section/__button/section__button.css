@@ -1,0 +1,22 @@
+@keyframes shine {
+  from {
+    background-position-x: 300px;
+  }
+
+  to {
+    background-position-x: 800px;
+  }
+}
+
+.section__button {
+  width: 200px;
+  height: 66px;
+  border: none;
+  background: url(../../../images/button-bg.svg) 300px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.section__button:hover {
+  animation: shine .9s linear 1 forwards;
+}

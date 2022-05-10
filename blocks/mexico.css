@@ -1,0 +1,7 @@
+.mexico {
+  max-width: 1280px;
+  min-width: 320px;
+  padding: 0;
+  margin: 0 auto;
+  background: url('../images/Mexico/Bg\ mexico\ 400x400\ refactored.svg') repeat;
+}

@@ -1,0 +1,9 @@
+.section__description_image_pinata {
+  width: 100px;
+  height: 100px;
+  background: url('../../../../images/Mexico/pinata.png') top/contain no-repeat;
+  position: absolute;
+  top: 0;
+  right: 123px;
+}
+

@@ -1,0 +1,13 @@
+.grid__card {
+  width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  box-shadow: 10px 5px 15px #000;
+  position: relative;
+  font-family: 'Hello-santtiny';
+  padding: 32px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.section__description_image_crown {
+  width: 110px;
+  height: 110px;
+  background: url('../../../../images/England/crown.png') top/contain no-repeat;
+  position: absolute;
+  left: 198px;
+  bottom: 81px;
+  transform: rotate(-39deg);
+}
+

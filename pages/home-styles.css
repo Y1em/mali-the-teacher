@@ -5,19 +5,6 @@
 @import url('../blocks/section/_reverse/section_reverse.css');
 @import url('../blocks/section/__description/section__description.css');
 @import url('../blocks/section/__description/_lang/section__description_lang_mex.css');
-<<<<<<< HEAD
-/* @import url('../blocks/section/__description/_image/section__description_image_cactus.css');
-@import url('../blocks/section/__description/_image/section__description_image_skeleton.css');
-@import url('../blocks/section/__description/_image/section__description_image_pinata.css');
-@import url('../blocks/section/__description/_image/section__description_image_crown.css');
-@import url('../blocks/section/__description/_image/section__description_image_shakespeare.css'); */
-=======
-@import url('../blocks/section/__description/_image/section__description_image_cactus.css');
-@import url('../blocks/section/__description/_image/section__description_image_skeleton.css');
-@import url('../blocks/section/__description/_image/section__description_image_pinata.css');
-@import url('../blocks/section/__description/_image/section__description_image_crown.css');
-@import url('../blocks/section/__description/_image/section__description_image_shakespeare.css');
->>>>>>> eeefc83c97ef158a30507117062d8113817e3ff7
 @import url('../blocks/section/__title/section__title.css');
 @import url('../blocks/section/__text/section__text.css');
 @import url('../blocks/section/__link/section__link.css');
@@ -25,9 +12,3 @@
 @import url('../blocks/section/_language/section_language_english.css');
 @import url('../blocks/section/_language/section_language_mexican.css');
 @import url('../blocks/section/__button/section__button.css');
-<<<<<<< HEAD
-
-=======
-/* @import url('../blocks/appearence/appearence.css');
-@import url('../blocks/appearence/_rev/appearence_rev.css'); */
->>>>>>> eeefc83c97ef158a30507117062d8113817e3ff7

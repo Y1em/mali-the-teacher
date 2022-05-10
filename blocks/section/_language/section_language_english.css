@@ -1,0 +1,5 @@
+.section_language_english {
+  width: 100%;
+  aspect-ratio: 1190/600;
+  background: linear-gradient(to left, #f9c 0% 48%, transparent 90% 100%), url("../../../images/England/stonehenge.jpg") no-repeat left;
+}

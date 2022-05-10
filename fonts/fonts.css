@@ -1,0 +1,7 @@
+@font-face {
+  src:
+  /* url(./Hello-santtiny/hello-santtiny.woff2) format('woff2'), */
+  url(./Hello-santtiny/hello-santtiny.woff) format('woff');
+  font-family: 'Hello-santtiny';
+  font-weight: normal;
+}

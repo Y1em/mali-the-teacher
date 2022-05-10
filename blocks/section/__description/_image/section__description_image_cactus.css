@@ -1,0 +1,9 @@
+.section__description_image_cactus {
+  width: 110px;
+  height: 110px;
+  background: url('../../../../images/Mexico/cactus.png') center/contain no-repeat;
+  position: absolute;
+  bottom: -27px;
+  right: 15%;
+}
+

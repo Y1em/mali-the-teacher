@@ -1,0 +1,15 @@
+.grid__card_size_l {
+  grid-column: span 3;
+}
+
+@media screen and (max-width: 900px) {
+  .grid__card_size_l {
+    grid-column: span 2;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .grid__card_size_l {
+    grid-column: span 1;
+  }
+}

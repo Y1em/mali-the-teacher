@@ -1,0 +1,23 @@
+.grid__title {
+  margin: 0;
+  display: inline-block;
+  transform: rotate(-15deg);
+  font-size: 72px;
+  color: deeppink;
+  text-shadow: 2px 2px 30px brown;
+  width: fit-content;
+  z-index: 2;
+}
+
+
+@media screen and (max-width: 1000px) {
+  .grid__title {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .grid__title {
+    font-size: 32px;
+  }
+}

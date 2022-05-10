@@ -1,0 +1,17 @@
+.grid__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 200px 10% 3% 10%;
+  background-color: rgba(0, 0, 0, .8);
+  opacity: 1;
+}
+
+.grid__overlay:hover {
+  background-color: rgba(0, 0, 0, .2);
+  opacity: 0;
+}
+
+

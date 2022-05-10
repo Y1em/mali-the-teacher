@@ -1,0 +1,29 @@
+@keyframes recolor {
+  from {
+    background-position-x: 0;
+  }
+
+  to {
+    background-position-x: 200px;
+  }
+}
+
+.section__link {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  color: white;
+  text-decoration: none;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 66px;
+  background: linear-gradient(135deg, pink 0%, white 15%, pink 30%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section__link:hover {
+  animation: recolor .37s linear .5s 1 forwards;
+}

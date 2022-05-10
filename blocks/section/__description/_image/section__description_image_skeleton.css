@@ -1,0 +1,10 @@
+.section__description_image_skeleton {
+  width: 135px;
+  height: 135px;
+  background: url('../../../../images/Mexico/skeleton.png') top/contain no-repeat;
+  position: absolute;
+  left: 96px;
+  bottom: 70px;
+  transform: rotate(-27deg);
+}
+
